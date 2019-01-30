@@ -7,7 +7,6 @@
 ## Official Documentation
 
 * Lumen Framework [Lumen website](http://lumen.laravel.com/docs).
-* Tymon JWT Auth [JWT Wiki](https://github.com/tymondesigns/jwt-auth/wiki).
 
 ## License
 
